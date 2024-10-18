@@ -1,0 +1,14 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "@koa/router": "^13.1.0",
+    "koa": "^2.15.3"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "jest": "^29.7.0"
+  }
+}
